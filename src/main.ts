@@ -1,5 +1,4 @@
 import './style.scss'
-import { runExample } from './example/example'
+import { runExperience } from './shrimp-ravioli/experience'
 
-runExample()
-
+runExperience()
